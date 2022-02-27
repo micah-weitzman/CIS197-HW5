@@ -1,0 +1,25 @@
+{
+  "name": "CIS197-HW5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikachoow21/CIS197-HW5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikachoow21/CIS197-HW5/issues"
+  },
+  "homepage": "https://github.com/mikachoow21/CIS197-HW5#readme",
+  "dependencies": {
+    "parcel": "^2.3.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
