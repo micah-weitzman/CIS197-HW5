@@ -1,3 +1,12 @@
-export function App() {
-  return <h1>Hello world!</h1>
-}
+import React, { useState } from 'react'
+import Intro from './components/Intro'
+import Footer from './components/Footer'
+
+const App = () => (
+  <div>
+    <Intro />
+    <Footer />
+  </div>
+)
+
+export default App
